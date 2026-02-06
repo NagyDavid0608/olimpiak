@@ -3,7 +3,9 @@ p{
 }
 
 body{
-  background-image: url(olimpiahatter.jpg );
+  background-image: url(zaszlo.jpg );
+  background-repeat: cover;
+  background-position: top;
 }
 h1{ 
     color: rgb(rgb(255, 30, 30),);
